@@ -1,0 +1,76 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  width: 56px;
+  height: 36px;
+  border-width: 0;
+  color: white;
+  border-radius: 10px;
+}
+
+.primary {
+  background-color: #34bb7e;
+  margin-top: 40px;
+  box-shadow: 15px 14px 39px -7px rgba(199, 199, 199, 1);
+}
+
+.secondary {
+  background-color: #3883c1;
+  box-shadow: 15px 14px 39px -7px rgba(199, 199, 199, 1);
+}
+
+#dec5 {
+  width: 23px;
+  height: 20px;
+  color: white;
+  border-radius: 5px;
+  background-color: #dc8849;
+  display: flex;
+  margin: auto;
+  margin-right: -5px;
+  margin-top: -85px;
+  box-shadow: 15px 14px 39px -7px rgba(199, 199, 199, 1);
+}
+
+#aum5 {
+  width: 23px;
+  height: 20px;
+  color: white;
+  border-radius: 5px;
+  background-color: #dc8849;
+  display: flex;
+  margin: auto;
+  margin-right: -5px;
+  margin-top: 10px;
+  box-shadow: 15px 14px 39px -7px rgba(199, 199, 199, 1);
+
+}
+
+#res {
+  width: 100px;
+  height: 20px;
+  color: white;
+  border-radius: 8px;
+  background-color: #bde772;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  margin-top: 45px;
+  box-shadow: 15px 14px 39px -7px rgba(199, 199, 199, 1);
+}
+
+body {
+  background: radial-gradient(circle, #fff, #75c7d9);
+  overflow: auto;
+}
+
+#caja {
+   background: radial-gradient(circle, #fff, #c8f9ff);
+   display:table;
+   margin: 10rem auto;
+   vertical-align: middle;
+   border-radius: 80px;
+}
